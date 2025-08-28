@@ -1,3 +1,4 @@
 # Python-Streamlit project made by fuzzy
 
-heheheha
+old code, will either archive or private (or delete, probably should delete)
+- was great learning experience though
